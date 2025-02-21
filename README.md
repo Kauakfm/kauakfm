@@ -1,13 +1,27 @@
 ## Olá! Eu sou o Kauã Ferreira 👋
 
-### 🚀 Sobre mim
-- 🔭 Trabalho com **Back-end**
-- 🌱 Estudando **Inteligência Artificial (IA)**
-- 📖 Contato: **kaua.kfm@icloud.com**
-- 😄 Pronouns: **ele/dele**
+### Sobre mim:
+Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Anhanguera e atuo como engenheiro de software na NDEVS, onde aplico minhas competências em AWS, DevOps, .NET e Go para inovar em soluções logísticas.
 
-### 🛠️ Tecnologias que uso
-<div style="display: flex; gap: 8px;">
+Na NDEVS, lidero a arquitetura de novas soluções logísticas, projetando sistemas escaláveis e sustentáveis, além de resolver problemas críticos.
+
+Minha paixão pela tecnologia começou aos 14 anos, e minha busca constante por conhecimento me impulsiona a contribuir com a equipe no desenvolvimento de soluções de excelência.
+
+<div>
+  <a href="https://github.com/kauakfm">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauakfm&show_icons=true&bg_color=0D1117&title_color=2FAD46&text_color=FFFFFF&icon_color=2FAD46"/>
+  </a>
+  <a href="https://github.com/kauakfm">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauakfm&theme=dark&border_radius=5"/>
+  </a>
+</div>
+    
+<div>- 🔭 Hoje trabalho com back-end</div>
+<div>- 🌱 Estudando Inteligência Artificial(IA)</div>
+<div>- 📖 Contate-me no email: kaua.kfm@icloud.com</div>
+<div>- 😄 Pronouns: ele/dele</div>
+
+<div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,5 +30,5 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="AI" height="30" width="40" src="https://img.icons8.com/ios-filled/50/d3d3d3/artificial-intelligence.png">
+  <img align="center" alt="AI" height="30" width="40" src="https://img.icons8.com/ios-filled/50/FFFFFF/artificial-intelligence.png">
 </div>

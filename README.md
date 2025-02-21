@@ -7,6 +7,14 @@ Na NDEVS, lidero a arquitetura de novas soluções logísticas, projetando siste
 
 Minha paixão pela tecnologia começou aos 14 anos, e minha busca constante por conhecimento me impulsiona a contribuir com a equipe no desenvolvimento de soluções de excelência.
 
+<div>
+  <a href="https://github.com/kauakfm">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauakfm&show_icons=true&bg_color=0D1117&title_color=2FAD46&text_color=FFFFFF&icon_color=2FAD46"/>
+  </a>
+  <a href="https://github.com/kauakfm">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauakfm&theme=dark&border_radius=5"/>
+  </a>
+</div>
     
 <div>- 🔭 Hoje trabalho com back-end</div>
 <div>- 🌱 Estudando Inteligência Artificial(IA)</div>
@@ -18,9 +26,9 @@ Minha paixão pela tecnologia começou aos 14 anos, e minha busca constante por 
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="AI" height="30" width="40" src="https://img.icons8.com/ios-filled/50/FFFFFF/artificial-intelligence.png">
+  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg">
 </div>

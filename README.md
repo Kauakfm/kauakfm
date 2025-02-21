@@ -7,14 +7,6 @@ Na NDEVS, lidero a arquitetura de novas soluções logísticas, projetando siste
 
 Minha paixão pela tecnologia começou aos 14 anos, e minha busca constante por conhecimento me impulsiona a contribuir com a equipe no desenvolvimento de soluções de excelência.
 
-<div>
-  <a href="https://github.com/kauakfm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauakfm&show_icons=true&bg_color=0D1117&title_color=2FAD46&text_color=FFFFFF&icon_color=2FAD46"/>
-  </a>
-  <a href="https://github.com/kauakfm">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauakfm&theme=dark&border_radius=5"/>
-  </a>
-</div>
     
 <div>- 🔭 Hoje trabalho com back-end</div>
 <div>- 🌱 Estudando Inteligência Artificial(IA)</div>

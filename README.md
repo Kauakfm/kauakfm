@@ -21,5 +21,4 @@ Minha paixão pela tecnologia começou aos 14 anos, e minha busca constante por 
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="AI" height="30" width="40" src="https://img.icons8.com/ios-filled/50/FFFFFF/artificial-intelligence.png">
   <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
